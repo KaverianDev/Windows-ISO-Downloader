@@ -1,5 +1,5 @@
 # Windows-ISO-Downloader
-This is a simple Windows ISO Downloader. Written in BASH.
+This is a simple Windows ISO Downloader. Written in Batch.
 
 <H2>Prerequisites.</H2>
 - Curl (preinstalled in Windows 10 and Above)
